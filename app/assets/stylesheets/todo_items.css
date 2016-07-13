@@ -1,0 +1,25 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+body {
+  background-color: #e6f3ff;
+  text-align: center;
+}
+
+h1 {
+  color: #7575a3;
+}
+
+h1#motivation{
+  font-size: 2em;
+}
+
+thead#thead{
+  color: #b3b3cc;
+}
+
+table {
+  align: center;
+}
